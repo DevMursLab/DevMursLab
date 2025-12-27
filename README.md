@@ -4,7 +4,8 @@
 </p>
 
 <h3 align="center">
-🚀 MERN Stack Developer | 🤖 ML & Data Enthusiast | 🧠 Competitive Programmer
+ Machine Learning & Data Science | AI Research Aspirant |  MERN Stack Developer |  Competitive Programmer
+
 </h3>
 
 <p align="center">
