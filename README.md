@@ -1,4 +1,4 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=MD%20MURSALIN&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -15,17 +15,17 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering Student  
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)  
-- 🤖 Interested in Machine Learning, Data Science & AI  
-- 🧠 Competitive Programming Enthusiast  
-- 🚀 Always learning, building & improving  
+- 🎓 CSE Student  
+- 💻 MERN Stack Developer  
+- 🤖 Interested in AI, ML & Data Science  
+- 🧠 Competitive Programming Lover  
+- 🚀 Always learning & building  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript"/>
 </p>
@@ -35,12 +35,12 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap"/>
 </p>
 
-### 🤖 Machine Learning & Data
+### 🤖 ML & Data
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
 </p>
 
-### ⚙️ Tools & DevOps
+### ⚙️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase,mysql,git"/>
 </p>
@@ -68,57 +68,53 @@
 
 ---
 
-## 🌐 Connect With Me & Online Judges
+## 🌐 Online Judges & Profiles (DARK MODE SAFE)
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mursalin-shuvo/" target="_blank">
+
+<a href="https://codeforces.com/profile/itzzmursalin">
+  <img src="https://img.shields.io/badge/Codeforces-itzzmursalin-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/shuoverflow202">
+  <img src="https://img.shields.io/badge/CodeChef-shuoverflow202-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/mdmursalin/">
+  <img src="https://img.shields.io/badge/LeetCode-mdmursalin-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/programmer_murs1">
+  <img src="https://img.shields.io/badge/HackerRank-programmer__murs1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerearth.com/@mursalin-hawlader">
+  <img src="https://img.shields.io/badge/HackerEarth-mursalin--hawlader-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/mursalin_hawlader/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-mursalin__hawlader-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.topcoder.com/members/itzzmursalin">
+  <img src="https://img.shields.io/badge/TopCoder-itzzmursalin-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mursalin-shuvo/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/mursalinshuvo" target="_blank">
+  <a href="https://www.kaggle.com/mursalinshuvo">
     <img src="https://skillicons.dev/icons?i=kaggle"/>
   </a>
-
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@codewithmursalin" target="_blank">
+  <a href="https://www.youtube.com/@codewithmursalin">
     <img src="https://skillicons.dev/icons?i=youtube"/>
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/itzzmursalin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="45"/>
-  </a>
-
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/shuoverflow202" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="45"/>
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/mdmursalin/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="45"/>
-  </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/programmer_murs1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="45"/>
-  </a>
-
-  <!-- HackerEarth -->
-  <a href="https://www.hackerearth.com/@mursalin-hawlader" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerearth.svg" width="45"/>
-  </a>
-
-  <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/mursalin_hawlader/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" width="45"/>
-  </a>
-
-  <!-- TopCoder -->
-  <a href="https://www.topcoder.com/members/itzzmursalin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/topcoder.svg" width="45"/>
   </a>
 </p>
 
